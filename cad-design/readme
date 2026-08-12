@@ -1,0 +1,22 @@
+# 📐 CAD Design, Engineering Drawings & GD&T Certificates
+
+This directory contains verified course completion certificates focused on 3D parametric CAD modeling, production drafting standards, Geometric Dimensioning & Tolerancing (GD&T), and tolerance stack-up analysis.
+
+---
+
+## 📜 Directory Index & Verification Links
+
+| Certificate File | Course Title | Platform | Core Competencies |
+| :--- | :--- | :--- | :--- |
+| [`udemy-solidworks-cswp-preparation.pdf`](./udemy-solidworks-cswp-preparation.pdf) | SOLIDWORKS: Become a Certified Professional Today (CSWP) | Udemy | Advanced part modeling, parametric feature trees, design configurations, global variables, bottom-up assembly constraints, mass properties verification |
+| [`udemy-solidworks-drawing-specialist.pdf`](./udemy-solidworks-drawing-specialist.pdf) | SOLIDWORKS: Become a Certified Drawing Specialist Today | Udemy | Production-ready drawings, custom sheet formats, section views, detail views, Bill of Materials (BOM), revision tables |
+| [`udemy-engineering-drawings-fundamentals.pdf`](./udemy-engineering-drawings-fundamentals.pdf) | Understanding Engineering Drawings | Udemy | Blueprint reading, orthographic projections, isometric representation, standard drafting conventions, title block parameters |
+| [`udemy-gdt-and-tolerance-stackup.pdf`](./udemy-gdt-and-tolerance-stackup.pdf) | GD & T and Stack-Up (Basic to Expert level) | Udemy | ASME Y14.5 standards, Datum Reference Frames (DRF), Feature Control Frames (FCF), Form/Orientation/Location/Runout controls, Worst-Case & RSS Tolerance Stack-Up |
+
+---
+
+## 🎯 Skill Highlights & Summary
+
+* **Parametric Design & Assemblies:** Proficient in creating complex, fully constrained 3D parts and robust assemblies optimized for design changes and mass property calculations.
+* **Drafting & Manufacturing Readiness:** Capable of translating 3D CAD geometry into clear, standardized 2D engineering drawings according to ASME/ISO guidelines.
+* **Tolerance & Quality Control:** Able to perform 1D Worst-Case and Root-Sum-Square (RSS) tolerance stack-up analysis to ensure proper part fit and assembly interchangeability prior to manufacturing.
